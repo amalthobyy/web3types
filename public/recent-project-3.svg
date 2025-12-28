@@ -1,0 +1,63 @@
+<svg width="960" height="600" viewBox="0 0 960 600" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="960" height="600" rx="48" fill="url(#paint0_linear_301)"/>
+  <g filter="url(#filter0_f_301)">
+    <ellipse cx="290" cy="180" rx="210" ry="170" fill="url(#paint1_radial_301)" fill-opacity="0.78"/>
+  </g>
+  <g filter="url(#filter1_f_301)">
+    <ellipse cx="708" cy="420" rx="230" ry="180" fill="url(#paint2_radial_301)" fill-opacity="0.82"/>
+  </g>
+  <g filter="url(#filter2_f_301)">
+    <path d="M188 180C188 156.386 207.386 137 231 137H729C752.614 137 772 156.386 772 180V412C772 435.614 752.614 455 729 455H231C207.386 455 188 435.614 188 412V180Z" fill="url(#paint3_linear_301)"/>
+  </g>
+  <rect x="220" y="204" width="520" height="292" rx="40" fill="#050B18" fill-opacity="0.22" stroke="rgba(255,255,255,0.2)" stroke-width="2"/>
+  <g filter="url(#filter3_f_301)">
+    <circle cx="480" cy="350" r="92" fill="#0A1328" fill-opacity="0.6"/>
+  </g>
+  <circle cx="480" cy="292" r="112" fill="url(#paint4_radial_301)"/>
+  <path d="M480 212L503.464 266.536L564 274.752L520 314.464L530.928 374L480 344L429.072 374L440 314.464L396 274.752L456.536 266.536L480 212Z" fill="#FDFEFF" fill-opacity="0.92"/>
+  <rect x="320" y="420" width="320" height="36" rx="18" fill="#FFFFFF" fill-opacity="0.85"/>
+  <defs>
+    <filter id="filter0_f_301" x="-60" y="-150" width="700" height="660" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+      <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+      <feGaussianBlur stdDeviation="80" result="effect1_foregroundBlur_301"/>
+    </filter>
+    <filter id="filter1_f_301" x="318" y="120" width="780" height="600" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+      <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+      <feGaussianBlur stdDeviation="80" result="effect1_foregroundBlur_301"/>
+    </filter>
+    <filter id="filter2_f_301" x="108" y="57" width="744" height="478" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+      <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+      <feGaussianBlur stdDeviation="40" result="effect1_foregroundBlur_301"/>
+    </filter>
+    <filter id="filter3_f_301" x="328" y="198" width="304" height="304" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+      <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+      <feGaussianBlur stdDeviation="30" result="effect1_foregroundBlur_301"/>
+    </filter>
+    <linearGradient id="paint0_linear_301" x1="160" y1="36" x2="776" y2="564" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#060F2C"/>
+      <stop offset="0.5" stop-color="#171E48"/>
+      <stop offset="1" stop-color="#4A3FF2"/>
+    </linearGradient>
+    <radialGradient id="paint1_radial_301" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(290 180) rotate(90) scale(170 210)">
+      <stop stop-color="#6FFFE8"/>
+      <stop offset="1" stop-color="#2C64FF" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="paint2_radial_301" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(708 420) rotate(90) scale(180 230)">
+      <stop stop-color="#FF8BDA"/>
+      <stop offset="1" stop-color="#2C64FF" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="paint3_linear_301" x1="188" y1="137" x2="772" y2="455" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#6FFFE8" stop-opacity="0.5"/>
+      <stop offset="1" stop-color="#FF8BDA" stop-opacity="0.5"/>
+    </linearGradient>
+    <radialGradient id="paint4_radial_301" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(480 292) rotate(90) scale(112)">
+      <stop stop-color="#10172B"/>
+      <stop offset="1" stop-color="#040711" stop-opacity="0.1"/>
+    </radialGradient>
+  </defs>
+</svg>
+
